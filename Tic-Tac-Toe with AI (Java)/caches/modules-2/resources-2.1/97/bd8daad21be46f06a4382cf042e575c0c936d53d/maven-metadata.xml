@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.hyperskill</groupId>
+  <artifactId>hs-gradle-plugin</artifactId>
+  <version>release-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230814.082715</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20230814082715</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>release-20230814.082715-3</value>
+        <updated>20230814082715</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>release-20230814.082715-3</value>
+        <updated>20230814082715</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>release-20230814.082715-3</value>
+        <updated>20230814082715</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
